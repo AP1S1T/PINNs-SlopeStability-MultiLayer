@@ -22,8 +22,8 @@ The PiNN models a 2D slope problem with **multi-layered soil** using physics equ
 The PiNN is trained using:
 - **Physics equations**: 2D linear elastic 
 - **Material parameters**:
-  - Young's Modulus soil layer 1 (E): 50000 kN/m^2   (for example) to compare with FEM from Plaxis2d
-  - Young's Modulus soil layer 2 (E): 20000 kN/m^2
+  - Young's Modulus soil layer 1 (E): 50000 kN/m²   (for example) to compare with FEM from Plaxis2d
+  - Young's Modulus soil layer 2 (E): 20000 kN/m²
   - Poisson's Ratio (ν): 0.3
   - Unit Weight (γ): 18 kN/m³ (for example) to compare with FEM from Plaxis2d
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
