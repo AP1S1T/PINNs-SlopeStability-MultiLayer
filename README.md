@@ -29,8 +29,8 @@ The PiNN is trained using:
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
 
 ## Result
-![Slope Stability Visualization - ux](ux.png)
-![Slope Stability Visualization - uy](uy.png)
+![Slope Stability Visualization - ux](Ux.png)
+![Slope Stability Visualization - uy](Uy.png)
 ![Slope Stability Visualization - sigma_xx](sigma_xx.png)
 ![Slope Stability Visualization - sigma_yy](sigma_yy.png)
 ![Slope Stability Visualization - sigma_xy](sigma_xy.png)
