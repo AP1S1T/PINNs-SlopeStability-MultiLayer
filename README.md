@@ -30,11 +30,9 @@ The PiNN is trained using:
   ![Slope Stability Visualization - Dimension](Dimension-Material-properties.png)
 
 ## Result
-![Slope Stability Visualization - ux](Ux.png)
-![Slope Stability Visualization - uy](Uy.png)
-![Slope Stability Visualization - sigma_xx](sigma_xx.png)
-![Slope Stability Visualization - sigma_yy](sigma_yy.png)
-![Slope Stability Visualization - sigma_xy](sigma_xy.png)
+![Slope Stability Visualization - Displacement](comparison_displacement.png)
+![Slope Stability Visualization - Stress](comparison_stress.png)
+
 
 
 ## Installation
