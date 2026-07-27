@@ -32,8 +32,7 @@ The PiNN is trained using:
 ## Result
 ![Slope Stability Visualization - Displacement](comparison_displacement.png)
 ![Slope Stability Visualization - Stress](comparison_stress.png)
-
-
+![Slope Stability Visualization - Stress](loss_history.png)
 
 ## Installation
 
